@@ -7,6 +7,9 @@
 - 💼 Currently focused on full-stack development, building robust backend services and dynamic frontends
 - 🌟 Interests: Physics, particularly astrophysics, chess, travelling.
 
+### 💬 Motto
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 🔧 Skills & Tech Stack
 - **Languages**: Go, Python, JavaScript, TypeScript, Java, SQL
 - **Frameworks/Libraries**: Vue.js, Nuxt.js, JavaFX, TailwindCSS, SASS/LESS
@@ -19,6 +22,10 @@
 
 ### 🧑‍💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/Shakhboz06/Shakhboz06/blob/output/github-contribution-grid-snake.svg)
+
 ### 🧰 Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
