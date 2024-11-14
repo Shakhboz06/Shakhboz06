@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - 🎓 Studying Software Engineering at the University of Europe for Applied Sciences
 - 💼 Currently focused on full-stack development, building robust backend services and dynamic frontends
-- 🌟 Interests: Physics, particularly astrophysics, chess, travelling.
+- 🌟 Interests: Physics, astrophysics, chess, travelling.
 
 ### 💬 Motto
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
