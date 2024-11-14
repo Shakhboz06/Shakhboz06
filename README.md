@@ -20,6 +20,9 @@
 ### 🧑‍💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
 
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/Shakhboz06/Shakhboz06/blob/output/github-contribution-grid-snake.svg)
+
 ### 📫 Get in Touch
 - [Email](mailto:shakhboz.shodiev.com)
 
