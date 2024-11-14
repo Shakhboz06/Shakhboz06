@@ -7,9 +7,6 @@
 - 💼 Currently focused on full-stack development, building robust backend services and dynamic frontends
 - 🌟 Interests: Physics, astrophysics, chess, travelling.
 
-### 💬 Motto
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔧 Skills & Tech Stack
 - **Languages**: Go, Python, JavaScript, TypeScript, Java, SQL
 - **Frameworks/Libraries**: Vue.js, Nuxt.js, JavaFX, TailwindCSS, SASS/LESS
