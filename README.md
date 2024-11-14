@@ -21,11 +21,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/Shakhboz06/Shakhboz06/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shakhboz06/blob/output/github-contribution-grid-snake.svg)
 
 ### 📫 Get in Touch
 - [Email](mailto:shakhboz.shodiev.com)
-
-### 🔍 Current Projects
-- [Event Booking REST API](https://github.com/Shakhboz06/EventBookingAPI)
-- [Finance Tracker App](https://github.com/Shakhboz06/Finance-Tracker)
