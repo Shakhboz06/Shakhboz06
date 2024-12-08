@@ -15,10 +15,11 @@
 - **Skills**: Agile Development, System Engineering
 
 ### 📊 GitHub Stats
-![Shakhboz's GitHub stats][(https://github-readme-stats.vercel.app/api?username=Shakhboz06&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
+![Shakhboz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
 
 ### 🧑‍💻 Most Used Languages
-![Top Languages](https://git\hub-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
+
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/Shakhboz06/Shakhboz06/blob/master/github-contribution-grid-snake.svg)
