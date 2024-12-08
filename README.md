@@ -15,7 +15,7 @@
 - **Skills**: Agile Development, System Engineering
 
 ### 📊 GitHub Stats
-![Shakhboz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
+![Shakhboz's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shakhboz06&theme=radical)
 
 ### 🧑‍💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=radical)
