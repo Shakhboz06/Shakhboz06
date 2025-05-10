@@ -48,7 +48,3 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%2300C58E.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-
-### 📫 Get in Touch
-- [Email](mailto:shakhboz.shodiev.com)
