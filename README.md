@@ -18,7 +18,7 @@
 ![Shakhboz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakhboz06&show_icons=true&theme=radical)
 
 ### 🧑‍💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhboz06&layout=compact&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhboz06&hide=html,css,sass&&langs_count=10)
 
 
 ### 🐍 Contribution Snake
