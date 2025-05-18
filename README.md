@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - 🎓 Studying Software Engineering at the University of Europe for Applied Sciences
 - 💼 Currently focused on full-stack development, building robust backend services and dynamic frontends
-- 🌟 Interests: Physics, astrophysics, chess, travelling.
+- 🌟 Interests: Astrophysics, chess, travelling.
 
 ### 🔧 Skills & Tech Stack
 - **Languages**: Go, Python, JavaScript, TypeScript, Java, SQL
