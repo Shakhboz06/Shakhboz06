@@ -1,6 +1,6 @@
 # Shahboz Shodiev 👋
 
-🎓 **Software Engineering ** | 🌍 **Based in Berlin** | 🚀 **Software Engineer**
+🌍 **Based in Berlin** | 🚀 **Software Engineer**
 
 ### 👨‍💻 About Me
 - 🎓 Education in Software Engineering at the University of Europe for Applied Sciences
