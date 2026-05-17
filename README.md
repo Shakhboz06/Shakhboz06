@@ -20,10 +20,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhboz06&hide=html,css,sass,scss&&langs_count=10&layout=compact&theme=radical)
 
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/Shakhboz06/Shakhboz06/blob/master/github-contribution-grid-snake.svg)
-
-
 ### 🧰 Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
