@@ -8,7 +8,7 @@
 
 ### 🔧 Skills & Tech Stack
 - **Languages**: Go, Python, JavaScript, TypeScript, SQL
-- **Frameworks/Libraries**: Vue.js, Nuxt.js, JavaFX, TailwindCSS, SASS/LESS
+- **Frameworks/Libraries**: Vue.js, Nuxt.js, TailwindCSS, SASS/LESS
 - **Database**: MySQL, SQLite, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, Kubernutes, Jira, Figma, AWS.
 - **Skills**: Agile Development, System Engineering
