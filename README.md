@@ -1,6 +1,6 @@
 # Shahboz Shodiev 👋
 
-🌍 **Based in Berlin** | 🚀 **Software Engineer**
+🌍 **🚀 **Software Engineer**
 
 ### 👨‍💻 About Me
 - 🎓 Education in Software Engineering at the University of Europe for Applied Sciences
@@ -12,13 +12,6 @@
 - **Database**: MySQL, SQLite, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, Kubernutes, Jira, Figma, AWS.
 - **Skills**: Agile Development, System Engineering
-
-### 📊 GitHub Stats
-![Shakhboz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakhboz06&show_icons=true&theme=radical)
-
-### 🧑‍💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhboz06&hide=html,css,sass,scss&&langs_count=10&layout=compact&theme=radical)
-
 
 ### 🧰 Tech Stack
 
