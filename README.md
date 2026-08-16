@@ -1,6 +1,6 @@
 # Shahboz Shodiev 👋
 
-🌍 **🚀 **Software Engineer**
+🌍 **🚀 Software Engineer**
 
 ### 👨‍💻 About Me
 - 🎓 Education in Software Engineering at the University of Europe for Applied Sciences
@@ -10,7 +10,7 @@
 - **Languages**: Go, Python, JavaScript, TypeScript, SQL
 - **Frameworks/Libraries**: Vue.js, Nuxt.js, TailwindCSS, SASS/LESS
 - **Database**: MySQL, SQLite, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Kubernutes, Jira, Figma, AWS.
+- **Tools**: Git, Docker, Kubernetes, Jira, Figma, AWS.
 - **Skills**: Agile Development, System Engineering
 
 ### 🧰 Tech Stack
@@ -23,15 +23,10 @@
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%2300C58E.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
